@@ -65,11 +65,10 @@ You can use the app to do the following things.
  What platforms does the app run on?
  ========================================
 
- Right now, the edX mobile app is available for Android smartphones and
- iPhones. For the iPhone app, your device must be running iOS 7 or later.
+ Right now, the edX mobile app is available for Android smartphones, iPhones,
+ and the iPad. For the iPhone app, your device must be running iOS 7 or later.
 
- EdX plans to make the app available on Android tablets and iPads in the
- future.
+ EdX plans to make the app available on Android tablets in the future.
 
  ================================================
  How can I send questions or comments to edX?
@@ -152,12 +151,10 @@ You can use the app to do the following things.
  depending on the type of problems used in the course, you might not be able to
  complete all the course assignments or exams using the app.
 
- On Android devices, you do not need to have an edX account or be logged in to
- browse courses. Select **Discover Courses** in the edX mobile app.
-
- On both Android and iOS devices, if you have an edX account and are logged in
- to the mobile app, select **Find Courses** in the menu to access the list of
- available courses.
+ To browse courses, select **Discover Courses** in the edX mobile app or
+ **Discover** from the main menu. On Android devices, you do not need to have
+ an edX account or be logged in to browse courses. On iOS devices, you need to
+ have an edX account and be logged in to browse courses.
 
  When you find a course that interests you, select the course to view its About
  page. The About page includes course details such as the course start date,
@@ -165,8 +162,8 @@ You can use the app to do the following things.
  offered, the language that the course is taught in, and so on. Many About
  pages include a informational video about the course.
 
- For more information about edX courses and course availability, see :ref:`About
- Courses`.
+ For more information about edX courses and course availability, see
+ :ref:`About Courses`.
 
  ==================================================
  How do I enroll in a course?
