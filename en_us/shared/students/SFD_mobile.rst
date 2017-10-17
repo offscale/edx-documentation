@@ -152,7 +152,7 @@ You can use the app to do the following things.
  complete all the course assignments or exams using the app.
 
  To browse courses, select **Discover Courses** in the edX mobile app or
- **Discover** from the main menu. On Android devices, you do not need to have
+ **Discover** from the app's main menu. On Android devices, you do not need to have
  an edX account or be logged in to browse courses. On iOS devices, you need to
  have an edX account and be logged in to browse courses.
 
