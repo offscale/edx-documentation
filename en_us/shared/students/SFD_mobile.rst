@@ -139,6 +139,22 @@ You can use the app to do the following things.
     profile. If you are under 13 years of age, you cannot share a full
     profile or add a profile picture.
 
+ In the edX mobile app, follow these steps to view or edit your profile.
+
+ #. From the main menu, select **Account**.
+
+    .. image:: ../../shared/images/SFD_Mobile_Menu.png
+       :width: 200
+       :alt: The main menu of the edX mobile app, showing the My Courses,
+         Discover, and Account options.
+
+ #. Select **Profile**.
+
+ #. Select **Edit** to change your profile details.
+
+
+
+
  For more information about creating or editing your edX profile, see
  :ref:`Adding Profile Information<SFD Profile Page>`.
 
@@ -175,7 +191,7 @@ You can use the app to do the following things.
  to the verified track to earn a certificate.
 
  For more information about enrolling and about course tracks, see :ref:`SFD
- Enrolling in a Course` and :ref:`Enrollment Tracks`.
+ Enrolling in a Course` and :ref:`Enrollment Tracks`
 
  ========================================
  How do I unenroll from a course?
@@ -412,14 +428,14 @@ By default, the edX app is set so that it only downloads content, including
 videos, if you are on a Wi-Fi network. If you change this setting, you might
 exceed the data allowance for your cellular plan.
 
-#. On the **My Courses** page, select the menu in the upper left corner.
+#. From the main menu, select **Account**.
 
     .. image:: ../../shared/images/SFD_Mobile_Menu.png
        :width: 200
-       :alt: Mobile "My Courses" page with an arrow pointing to the menu in the
-         upper left corner.
+       :alt: The main menu of the edX mobile app, showing the My Courses,
+         Discover, and Account options.
 
-#. Select **My Settings**.
+#. Select **Settings**.
 
 #. Change the **Wi-Fi only download** setting.
 
