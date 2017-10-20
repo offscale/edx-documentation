@@ -29,13 +29,18 @@ interface, so that users of the website still find it familiar and easy to
 use. Be careful about making sweeping changes to the user interface without
 warning: your users will be very confused!
 
-.. note:: You can disable Comprehensive Theming by setting
-     ``ENABLE_COMPREHENSIVE_THEMING`` to ``False``, as shown in this example.
+The default Open edX theme is named "Comprehensive Theming". You can disable
+Comprehensive Theming by setting ``ENABLE_COMPREHENSIVE_THEMING`` to
+``False``, as shown in this example, then applying your custom theme.
 
     .. code-block:: python
 
         ENABLE_COMPREHENSIVE_THEMING = False
 
+
+.. contents::
+   :local:
+   :depth: 1
 
 ***************
 Theme Structure
@@ -97,7 +102,7 @@ There are two types of styles included in ``ecommerce/static/sass``:
 * base
 * partials
 
-.. Warning:: Styles present in ``ecommerce/static/sass/base`` should not be
+.. caution:: Styles present in ``ecommerce/static/sass/base`` should not be
    overridden as overriding these could result in an unexpected behavior.
 
 Any styles included in ``ecommerce/static/sass/partials`` can be overridden.
