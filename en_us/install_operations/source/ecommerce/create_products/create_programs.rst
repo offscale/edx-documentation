@@ -78,10 +78,10 @@ To add a program, follow these steps.
    the **Save** options: **Save**, **Save and add another**, or **Save and
    continue editing**.
 
-This procedure completes the course and program structure. To provide "site
-functionality" for programs, the LMS and the marketing site also need to know
-about the program and the program offer, if any, that is associated with the
-program.
+.. This procedure completes the course and program structure. To provide "site
+.. functionality" for programs, the LMS and the marketing site also need to know
+.. about the program and the program offer, if any, that is associated with the
+.. program.
 
 .. Discovery service?
 

@@ -380,7 +380,7 @@ The .csv file for your coupon lists the following information.
      - The number of times that the discount code or enrollment code that is
        associated with the coupon can be used. For single-use coupons, this
        value is 1. For multi-use coupons, this is the value that you specified
-       in the **Maximum Number of Usages** field.
+       in the **Maximum Number of Uses** field.
    * - **Redemption Count**
      - The number of times the coupon has been redeemed. The initial value is
        0, and the value is incremented each time that a discount code or
